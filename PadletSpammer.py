@@ -6,7 +6,7 @@ class Spam:
     url = "https://padlet.com/api/3/wishes"
     __QUANTITY = 0
     __HEADERS = {
-        "authorization": "Bearer 0ae514cbcc40e76a6e50c55dec3e3e9884ffd988605f79a67314cb48bbaed811",
+        "authorization": "Bearer TOKEN",
     }
     __DATA = {
         "sort_index": "3838739544064",
